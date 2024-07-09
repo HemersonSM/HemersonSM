@@ -18,9 +18,6 @@ Sou um programador apaixonado por tecnologia, com formação e pós-graduação 
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ![Snake animation](https://github.com/HemersonSM/HemersonSM/blob/output/github-contribution-grid-snake.svg)
