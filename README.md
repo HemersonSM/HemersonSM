@@ -16,10 +16,6 @@ Sou um programador apaixonado por tecnologia, com formação e pós-graduação 
 
 ![{HemersonSM} GitHub stats](https://github-readme-stats.vercel.app/api?username=HemersonSM&show_icons=true&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HemersonSM)](https://github.com/anuraghazra/github-readme-stats)
-
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
-
-
 
 ![Snake animation](https://github.com/HemersonSM/HemersonSM/blob/output/github-contribution-grid-snake.svg)
